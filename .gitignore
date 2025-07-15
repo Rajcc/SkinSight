@@ -1,0 +1,16 @@
+android/app/my-release-key.keystore
+android/app/rajmukund.keystore
+.env
+skinsight-backend/keys/service-account.json
+
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+node_modules/
+
+# CMake/Build output
+android/.cxx/
+android/app/.cxx/
+android/app/build/
