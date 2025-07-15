@@ -1,14 +1,22 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-
-This project uses react-native as front end and Node.js as backend.A machine learning model trained on Dermanet dataset.To provide additional information on the predicted disease VertexAI was used.
-<img width="276" height="613" alt="image" src="https://github.com/user-attachments/assets/7a5d180f-a671-4203-8379-1ae652180505" />
-<img width="101" height="118" alt="image" src="https://github.com/user-attachments/assets/b95a3392-ced1-49f0-beda-a183d5705491" />  <img width="101" height="118" alt="image" src="https://github.com/user-attachments/assets/0db67bd3-33d1-4550-9780-6def8f8ae2a8" />  <img width="101" height="118" alt="image" src="https://github.com/user-attachments/assets/a7834c00-0c6a-40c0-85c8-76cb6bb98c43" />  <img width="101" height="118" alt="image" src="https://github.com/user-attachments/assets/b495f30d-c447-43e5-a967-7ac0f381bc63" />
-
+This project uses React Native as front end and Node.js as backend.  
+A machine learning model trained on the Dermanet dataset is used.  
+To provide additional information on the predicted disease, Vertex AI was used.
 
 
+<br/>
 
+<img src="https://github.com/user-attachments/assets/7a5d180f-a671-4203-8379-1ae652180505" width="276" height="613" />
 
+<br/><br/>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b95a3392-ced1-49f0-beda-a183d5705491" width="101" height="118" />
+  <img src="https://github.com/user-attachments/assets/0db67bd3-33d1-4550-9780-6def8f8ae2a8" width="101" height="118" />
+  <img src="https://github.com/user-attachments/assets/a7834c00-0c6a-40c0-85c8-76cb6bb98c43" width="101" height="118" />
+  <img src="https://github.com/user-attachments/assets/b495f30d-c447-43e5-a967-7ac0f381bc63" width="101" height="118" />
+</div>
 
 
 
