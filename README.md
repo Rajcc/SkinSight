@@ -1,5 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+This project uses react-native as front end and Node.js as backend.A machine learning model trained on Dermanet dataset.To provide additional information on the predicted disease VertexAI was used.<img width="170" height="190" alt="image" src="https://github.com/user-attachments/assets/b95a3392-ced1-49f0-beda-a183d5705491" />  <img width="379" height="121" alt="image" src="https://github.com/user-attachments/assets/0db67bd3-33d1-4550-9780-6def8f8ae2a8" /><img width="101" height="118" alt="image" src="https://github.com/user-attachments/assets/a7834c00-0c6a-40c0-85c8-76cb6bb98c43" />
+
+
+
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
