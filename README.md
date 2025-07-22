@@ -7,7 +7,9 @@ To provide additional information on the predicted disease, Vertex AI was used.
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/7a5d180f-a671-4203-8379-1ae652180505" width="276" height="613" />
+
+https://github.com/user-attachments/assets/6426c18b-de52-47f5-b651-3db588e3ec02
+
 
 <br/><br/>
 
